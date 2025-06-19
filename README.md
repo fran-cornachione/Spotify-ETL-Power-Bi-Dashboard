@@ -46,7 +46,7 @@ This project is an interactive **Power BI** dashboard built using data from my p
    REDIRECT_URI=http://127.0.0.1:8888/callback
    ```
 3. Run the notebook inside `notebooks/` to extract and save the data (Run All)
-4. Open the `.pbix` file in Power BI Desktop and load the generated CSVs (Refresh Data)
+4. Now, you can make a `.pbix` file, and visualize your data.
 
 ## 🎯 Purpose
 
